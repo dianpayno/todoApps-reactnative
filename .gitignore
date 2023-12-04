@@ -2,7 +2,7 @@
 
 # dependencies
 node_modules/
-
+#npm i --dev tailwindcss@3.3.2 tailwind version
 # Expo
 .expo/
 dist/
